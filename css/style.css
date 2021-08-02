@@ -1,0 +1,15 @@
+body #sample-p {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+body #sample-p div {
+  width: 400px;
+  height: 200px;
+  margin: 20px;
+  border: solid 2px black;
+}
+/*# sourceMappingURL=style.css.map */

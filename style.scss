@@ -1,0 +1,12 @@
+body{
+  #sample-p{
+    display: flex;
+    flex-wrap: wrap;
+    div{
+      width: 400px;
+      height: 200px;
+      margin: 20px;
+      border: solid 2px black;
+    }
+  }
+}
